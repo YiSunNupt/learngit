@@ -6,5 +6,7 @@ creating a new branch is quick AND simple
 dev branch has been created.
 i am added in branch dev
 remember me
+add in remote
+
 
 
